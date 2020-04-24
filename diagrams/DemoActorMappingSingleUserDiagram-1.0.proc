@@ -285,7 +285,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_ozEEnWcHEeeXUPrCIbH-9A" type="7002" element="_ozEEImcHEeeXUPrCIbH-9A">
             <children xmi:type="notation:Shape" xmi:id="_ozEEnmcHEeeXUPrCIbH-9A" type="3005" element="_ozEEKGcHEeeXUPrCIbH-9A" fontName="DejaVu Sans" fillColor="14334392" lineColor="10710316">
               <children xmi:type="notation:DecorationNode" xmi:id="_ozEEn2cHEeeXUPrCIbH-9A" type="5005" element="_ozEEKGcHEeeXUPrCIbH-9A"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ozEEoGcHEeeXUPrCIbH-9A" x="160" y="60"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ozEEoGcHEeeXUPrCIbH-9A" x="175" y="67"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_ozEEoWcHEeeXUPrCIbH-9A" type="3002" element="_ozEEI2cHEeeXUPrCIbH-9A" fontName="DejaVu Sans">
               <children xmi:type="notation:DecorationNode" xmi:id="_ozEEomcHEeeXUPrCIbH-9A" type="5024" element="_ozEEI2cHEeeXUPrCIbH-9A">
@@ -298,7 +298,7 @@
           <styles xmi:type="notation:FontStyle" xmi:id="_ozEEpmcHEeeXUPrCIbH-9A" fontName="DejaVu Sans"/>
           <styles xmi:type="notation:LineStyle" xmi:id="_ozEEp2cHEeeXUPrCIbH-9A"/>
           <styles xmi:type="notation:FillStyle" xmi:id="_ozEEqGcHEeeXUPrCIbH-9A"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ozEEqWcHEeeXUPrCIbH-9A" x="44" y="10" width="1630" height="142"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ozEEqWcHEeeXUPrCIbH-9A" x="48" y="10" width="907" height="176"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_ozEEqmcHEeeXUPrCIbH-9A" type="3007" element="_ozEEOGcHEeeXUPrCIbH-9A">
           <children xmi:type="notation:DecorationNode" xmi:id="_ozEEq2cHEeeXUPrCIbH-9A" type="5007" element="_ozEEOGcHEeeXUPrCIbH-9A"/>
